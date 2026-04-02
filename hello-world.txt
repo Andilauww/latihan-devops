@@ -1,1 +1,3 @@
 "Hello,DevOps! Andi Wicaksono"
+
+Selamat datang di dunia DevOps! Andi Wicaksono >_<
